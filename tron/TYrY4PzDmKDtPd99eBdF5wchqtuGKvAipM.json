@@ -1,0 +1,11 @@
+{
+ "name": "AMS",
+ "website": "AMS.com",
+ "description": "爱马仕",
+ "explorer": "https://tronscan.io/#/contract/TYrY4PzDmKDtPd99eBdF5wchqtuGKvAipM",
+ "type": "TRC20",
+ "symbol": "AMS",
+ "decimals": 6,
+ "status": "active",
+ "id": "TYrY4PzDmKDtPd99eBdF5wchqtuGKvAipM"
+}
